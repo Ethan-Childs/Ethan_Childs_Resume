@@ -10,12 +10,12 @@ This repository contains my resume written in LaTeX as well as the PDF version. 
 
 **LaTex Version**
 
-### Using Overleaf
+**Using Overleaf**
 1. Go to [Overleaf](https://www.overleaf.com).
 2. Create a new project and upload the `.tex` file.
 3. Overleaf will automatically compile the `.tex` file into a PDF that you can download.
 
-### Compiling Locally
+**Compiling Locally**
 1. Install a LaTeX distribution, such as TeX Live or MiKTeX.
 2. Open your terminal or command prompt.
 3. Navigate to the directory containing the `.tex` file.
