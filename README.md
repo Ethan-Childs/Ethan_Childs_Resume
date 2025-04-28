@@ -19,5 +19,5 @@ This repository contains my resume written in LaTeX as well as the PDF version. 
 1. Install a LaTeX distribution, such as TeX Live or MiKTeX.
 2. Open your terminal or command prompt.
 3. Navigate to the directory containing the `.tex` file.
-4. Run the command: `pdflatex Ethan_Childs_Resume.tex`. 
+4. Run the command: `pdflatex Ethan_Childs_Resume.tex`
 5. This will generate a PDF file in the same directory.
