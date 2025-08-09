@@ -21,3 +21,4 @@ This repository contains my resume written in LaTeX as well as the PDF version. 
 3. Navigate to the directory containing the `.tex` file.
 4. Run the command: `pdflatex Ethan_Childs_Resume.tex`
 5. This will generate a PDF file in the same directory.
+
