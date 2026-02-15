@@ -1,10 +1,11 @@
 # Ethan Childs - Resume
 
-This repository contains my resume written in LaTeX as well as the PDF version. Last updated on 04/23/2025.
+This repository contains my resume as PDF file. Last updated on 02/14/2026.
 
 ## How to View my Resume
 
 ### PDF File
 1. Click on `Ethan_Childs_Resume.pdf` in the repository.
 2. Click the **Download** button or open it in your browser.
+
 
